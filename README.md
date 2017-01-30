@@ -6,3 +6,10 @@ So this implementation is for dns-01 challenge, [boto3](https://aws.amazon.com/j
 ## Note
 
 - This implementation has not been apply for Subject Alternative Name(SAN) yet.
+
+## References
+
+- [acme-tiny](https://github.com/diafygi/acme-tiny)
+- [dehydrated](https://github.com/lukas2511/dehydrated)
+- [Automatic Certificate Management Environment](https://github.com/ietf-wg-acme/acme)
+
