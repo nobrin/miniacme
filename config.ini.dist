@@ -1,0 +1,10 @@
+[aws]
+region          = ap-northeast-1
+zoneId          = ABCDEFGEXAMPLE
+accessKey       = AK00123456789EXAMPLE
+secretAccessKey = ABCDEFGabcdefg1234567890XXXXXXEXAMPLEKEY
+
+[letsencrypt]
+accountKeyFile  = account.key
+csrFile         = example.com.csr
+certificateFile = example.com.crt
